@@ -1,0 +1,9 @@
+{
+	"name": "gunasaideep",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "39e56f05-ecb9-4b27-b0ee-6f7af38443b6",
+		"tenantId": "e6e02850-30a0-4ae3-8931-b08c6b929e5f"
+	}
+}
